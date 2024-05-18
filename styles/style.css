@@ -202,6 +202,7 @@
   flex-direction: column;
   background-color: var(--background-color);
   padding: 25px;
+  line-height: var(--font-standart-height);
 }
 
 .card__small-text {
